@@ -5,4 +5,6 @@ $answer = $number1 + $number2;
 echo $answer;
 $answer = $number1 * $number2;
 echo $answer;
+$answer = $number1 % $number2;
+echo $answer;
 ?>
